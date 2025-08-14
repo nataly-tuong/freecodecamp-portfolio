@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Lasagna Lovers Survey</title>
+  </head>
+
+  <body>
+    <h1 id="title">Lasagna Lovers Survey</h1>
+    <p id="description">
+      Help us understand your lasagna preferences so we can make every layer of
+      your life better.
+    </p>
+
+    <form id="survey-form">
+      <!-- Name -->
+      <div>
+        <label for="name" id="name-label">Name</label>
+        <input id="name" type="text" placeholder="Enter your name" required />
+      </div>
+
+      <!-- Email -->
+      <div>
+        <label for="email" id="email-label">Email</label>
+        <input
+          id="email"
+          type="email"
+          placeholder="Enter your email"
+          required
+        />
+      </div>
+
+      <!-- Age -->
+      <div>
+        <label for="number" id="number-label">Age (optional)</label>
+        <input id="number" type="number" min="2" max="100" placeholder="Age" />
+      </div>
+
+      <!-- Dropdown -->
+      <div>
+        <label for="dropdown">What's your favorite lasagna ingredient?</label>
+        <select id="dropdown">
+          <option value="cheese">Cheese</option>
+          <option value="meat sauce">Meat Sauce</option>
+          <option value="spinach">Spinach</option>
+          <option value="noodles">Noodles</option>
+        </select>
+      </div>
+
+      <!-- Radio Buttons -->
+      <fieldset>
+        <legend>How often do you eat lasagna?</legend>
+        <label for="daily-option">
+          <input
+            id="daily-option"
+            type="radio"
+            name="frequency"
+            value="daily"
+          />
+          Daily </label
+        ><br />
+        <label for="weekly-option">
+          <input
+            id="weekly-option"
+            type="radio"
+            name="frequency"
+            value="weekly"
+          />
+          Weekly </label
+        ><br />
+        <label for="occasionally-option">
+          <input
+            id="occasionally-option"
+            type="radio"
+            name="frequency"
+            value="occasionally"
+          />
+          Occasionally
+        </label>
+      </fieldset>
+
+      <!-- Checkboxes -->
+      <fieldset>
+        <legend>
+          What types of lasagna have you tried? (Check all that apply)
+        </legend>
+        <label for="classic-beef">
+          <input id="classic-beef" type="checkbox" value="classic beef" />
+          Classic Beef </label
+        ><br />
+        <label for="vegetarian">
+          <input id="vegetarian" type="checkbox" value="vegetarian" />
+          Vegetarian </label
+        ><br />
+        <label for="seafood">
+          <input id="seafood" type="checkbox" value="seafood" /> Seafood
+        </label>
+      </fieldset>
+
+      <!-- Textarea -->
+      <div>
+        <label for="comments">Other Comments?</label><br />
+        <textarea
+          id="comments"
+          name="comments"
+          cols="30"
+          rows="3"
+          placeholder="Tell us your lasagna dreams..."
+        ></textarea>
+      </div>
+
+      <!-- Submit Button -->
+      <div>
+        <button id="submit" type="submit">Submit</button>
+      </div>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,89 @@
+body {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  padding: 5%;
+}
+
+.container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  text-align: center;
+  border-bottom: dashed;
+  border-color: maroon;
+  max-width: 400px;
+}
+
+img {
+  max-width: 100%;
+  border-bottom: dashed;
+  border-color: maroon;
+}
+
+textarea {
+  font-family: Arial;
+  border-radius: 5px;
+}
+
+fieldset {
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+select {
+  border-radius: 5px;
+}
+input {
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+input:first-of-type {
+  background-color: #fff5f5;
+  border: 2px solid maroon;
+}
+
+input:focus,
+textarea:focus {
+  border: 2px solid maroon;
+}
+
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border-color: red;
+}
+
+input:valid,
+select:valid,
+textarea:valid {
+  border-color: green;
+}
+
+button {
+  background-color: maroon;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin: 1px;
+  display: inline-block;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+}
+
+.radio-group input[type="radio"]:checked {
+  border: 2px solid maroon;
+  background-color: maroon;
+  box-shadow: 0 0 5px maroon;
+}
+
+.radio-group input[type="radio"]:checked + label {
+  color: maroon;
+}

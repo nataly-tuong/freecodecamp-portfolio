@@ -1,0 +1,338 @@
+[
+  {
+    "name": "fcc-animatedferriswheel",
+    "title": "Ferris Wheel",
+    "description": "[Link](https://lykaiio.github.io/fcc-animatedferriswheel)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-availabilitytable",
+    "title": "Availability Table",
+    "description": "[Link](https://lykaiio.github.io/fcc-availabilitytable)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-balancesheet",
+    "title": "Balance Sheet",
+    "description": "[Link](https://lykaiio.github.io/fcc-balancesheet)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-blogpostcard",
+    "title": "Blog Post Card",
+    "description": "Learn about Lasagna in 2025. From cheesy delightful goodness to\n          precious pasta!",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-bookcatalogtable",
+    "title": "Book Catalog",
+    "description": "[Link](https://lykaiio.github.io/fcc-bookcatalogtable)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-bookinventory",
+    "title": "Book Inventory",
+    "description": "[Link](https://lykaiio.github.io/fcc-bookinventory)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-businesscard",
+    "title": "Business Card",
+    "description": "Nataly Tuong",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-cafemenu",
+    "title": "Cafe Menu",
+    "description": "Est. 2020",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-catblogpage",
+    "title": "Mr. Whiskers' Blog",
+    "description": "Hi there! I'm Jane Doe, a passionate writer who finds endless\n          inspiration in the antics of my beloved cat, Mr. Whiskers.",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-catpainting",
+    "title": "fCC Cat Painting",
+    "description": "[Link](https://lykaiio.github.io/fcc-catpainting)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-catphotoapp",
+    "title": "CatPhotoApp",
+    "description": "Everyone loves\n          cute cats\n          online!",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-checkoutpage",
+    "title": "Checkout Page",
+    "description": "[Link](https://lykaiio.github.io/fcc-checkoutpage)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-cityskyline",
+    "title": "City Skyline",
+    "description": "[Link](https://lykaiio.github.io/fcc-cityksyline)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-coloredboxes",
+    "title": "Colored Boxes",
+    "description": "[Link](https://lykaiio.github.io/fcc-coloredboxes)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-colormarkers",
+    "title": "Colored Markers",
+    "description": "[Link](https://lykaiio.github.io/fcc-colormarkers)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-confidentialemailpage",
+    "title": "Confidential Email",
+    "description": "The base formula for the Ultimate Lasagna has been updated. Please\n        discard version 3.1.2-RedSauce and replace\n        it with the latest Crims...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-contactform",
+    "title": "Contact Form",
+    "description": "[Link](https://lykaiio.github.io/fcc-contactform)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-eventflyerpage",
+    "title": "Build an Event Flyer Page",
+    "description": "Inviting all pasta lovers! Come alone, come together, and just show up\n        to unite for the lovely delicacy that is Lasagna.",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-eventhub",
+    "title": "Event Hub",
+    "description": "Join chefs from across the country as they compete in the cheesiest, sauciest showdown of the year. Sample lasagnas, vote for your favorites, and mayb...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-finalexamstable",
+    "title": "Calculus Final Exams Table",
+    "description": "[Link](https://lykaiio.github.io/fcc-finalexamstable)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-flappypenguin",
+    "title": "Penguin",
+    "description": "I CSS",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-flexboxphotogallery",
+    "title": "Photo Gallery",
+    "description": "[Link](https://lykaiio.github.io/fcc-flexboxphotogallery)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-greetingcard",
+    "title": "Greeting Card",
+    "description": "Wishing you all the happiness and joy on your special day!",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-hotelfeedbackform",
+    "title": "Hotel Feedback Form",
+    "description": "Thank you for staying with us. Please provide feedback on your recent\n        stay.",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-housepainting",
+    "title": "House Painting",
+    "description": "[Link](https://lykaiio.github.io/fcc-housepainting)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-jobapplicationform",
+    "title": "Job Application Form",
+    "description": "[Link](https://lykaiio.github.io/fcc-jobapplicationform)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-magazine",
+    "title": "Magazine",
+    "description": "Our efforts to restructure our curriculum with a more project-based\n            focus",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-magazinelayout",
+    "title": "Magazine Layout",
+    "description": "From choosing the right pasta sheets to mastering b\u00e9chamel, learn the\n          step-by-step process behind a flawless lasagna. We break down the\n    ...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-moonorbit",
+    "title": "Moon Orbit",
+    "description": "[Link](https://lykaiio.github.io/fcc-moonorbit)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-moviereviewpage",
+    "title": "Movie Review",
+    "description": "In a world where pasta has fallen and flavor is forbidden, one forgotten\n        recipe holds the power to bring taste back to the table. The fate of\n...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-multimediaplayer",
+    "title": "Multimedia Player",
+    "description": "What is a map method and how does it work? The map method is a powerful\n        and widely used function in JavaScript that operates on arrays. It's\n ...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-newspaperarticle",
+    "title": "Newspaper Article",
+    "description": "August 5, 2025",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-nutritionlabel",
+    "title": "Nutrition Label",
+    "description": "8 servings per container",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-pageofplayingcards",
+    "title": "Playing Cards",
+    "description": "[Link](https://lykaiio.github.io/fcc-pageofplayingcards)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-piano",
+    "title": "Piano",
+    "description": "[Link](https://lykaiio.github.io/fcc-piano)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-productlanding",
+    "title": "Product Landing Page",
+    "description": "Discover how LayerMaster Pro takes lasagna-making to the next\n                level. From precision temperature control to even pasta sheet\n          ...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-quizwebpage",
+    "title": "Accessibility Quiz",
+    "description": "freeCodeCamp Accessibility Quiz practice project",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-registrationform",
+    "title": "Registration Form",
+    "description": "Please fill out this form with the required information",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-rothkopainting",
+    "title": "Rothko Painting",
+    "description": "[Link](https://lykaiio.github.io/fcc-rothkopainting)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-surveyform",
+    "title": "Lasagna Lovers Survey",
+    "description": "Help us understand your lasagna preferences so we can make every layer of\n      your life better.",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-technicaldocumentation",
+    "title": "Technical Documentation Page",
+    "description": "Lasagna is a layered pasta dish, traditionally made with sheets of\n          pasta, meat sauce, b\u00e9chamel, and cheese.",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-todolist",
+    "title": "Styled To-Do List",
+    "description": "[Link](https://lykaiio.github.io/fcc-todolist)",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-travelagencypage",
+    "title": "Travel Agency Page",
+    "description": "This is a travel agency page!",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-tributepage",
+    "title": "Tribute Page",
+    "description": "Lasagna has been around for centuries. It may have started in ancient Rome, but the version we know comes from Naples. Different regions made it their...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "fcc-videocompilationpage",
+    "title": "Video Compilation Page",
+    "description": "Lasagna is a classic Italian dish loved by many around the world. Layers\n        of pasta, rich meat sauce, creamy cheese, and sometimes vegetables co...",
+    "has_index": true,
+    "type": "fcc"
+  },
+  {
+    "name": "odin-landing",
+    "title": "Lasagna Land (\u0e51\u02c3\u1d17\u02c2)\ufeed",
+    "description": "Lasagna Land (\u3065\uff61\u25d5\u203f\u203f\u25d5\uff61)\u3065",
+    "has_index": true,
+    "type": "odin"
+  },
+  {
+    "name": "odin-recipes",
+    "title": "Odin Recipes",
+    "description": "",
+    "has_index": true,
+    "type": "odin"
+  },
+  {
+    "name": "odin-rps",
+    "title": "Document",
+    "description": "",
+    "has_index": true,
+    "type": "odin"
+  }
+]

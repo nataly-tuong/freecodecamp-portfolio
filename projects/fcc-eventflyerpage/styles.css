@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 60vw;
+  min-height: calc(100vh - 100px);
+  font-family: Arial;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  height: 75%;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}

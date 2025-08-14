@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Technical Documentation Page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>Lasagna Layers</header>
+      <ul>
+        <li>
+          <a class="nav-link" href="#Introduction_To_Lasagna"
+            >Introduction to Lasagna</a
+          >
+        </li>
+        <hr />
+        <li><a class="nav-link" href="#Pasta_Sheets">Pasta Sheets</a></li>
+        <hr />
+        <li><a class="nav-link" href="#Sauce_Layers">Sauce Layers</a></li>
+        <hr />
+        <li><a class="nav-link" href="#Cheese">Cheese</a></li>
+        <hr />
+        <li><a class="nav-link" href="#Baking">Baking</a></li>
+        <hr />
+        <li><a class="nav-link" href="#Accessibility">Accessibility</a></li>
+        <hr />
+      </ul>
+    </nav>
+
+    <main id="main-doc">
+      <section class="main-section" id="Introduction_To_Lasagna">
+        <header>Introduction to Lasagna</header>
+        <p>
+          Lasagna is a layered pasta dish, traditionally made with sheets of
+          pasta, meat sauce, béchamel, and cheese.
+        </p>
+        <p>
+          It's baked until bubbling and golden on top. The structure of lasagna
+          can be compared to code. Each layer supports the next.
+        </p>
+      </section>
+
+      <section class="main-section" id="Pasta_Sheets">
+        <header>Pasta Sheets</header>
+        <p>
+          Pasta sheets act like the layout of a webpage. They hold everything
+          together and give the dish its shape.
+        </p>
+        <p>
+          Fresh or dry, they create the framework for every layer to sit on.
+          Without pasta, there’s no lasagna.
+        </p>
+        <pre><code>&lt;div class="pasta-layer"&gt;&lt;/div&gt;</code></pre>
+      </section>
+
+      <section class="main-section" id="Sauce_Layers">
+        <header>Sauce Layers</header>
+        <p>
+          There are usually two sauces: a meat-based ragù and a creamy béchamel.
+        </p>
+        <p>
+          These provide flavor and moisture. Think of them like styling and
+          logic in web development.
+        </p>
+        <pre><code>.sauce {
+  background: tomato;
+  mix-blend-mode: delicious;
+}</code></pre>
+        <ul>
+          <li>Tomato adds richness</li>
+          <li>Béchamel adds smoothness</li>
+          <li>Meat adds depth</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Cheese">
+        <header>Cheese</header>
+        <p>
+          Cheese binds the layers. Mozzarella stretches across sections, and
+          Parmesan adds sharpness.
+        </p>
+        <p>
+          In development terms, cheese is what brings the visuals and logic
+          together. It's the polish on top.
+        </p>
+        <pre><code>let cheese = mozzarella + parmesan;</code></pre>
+      </section>
+
+      <section class="main-section" id="Baking">
+        <header>Baking</header>
+        <p>
+          The final step. You build, then bake. This is like deploying your
+          site.
+        </p>
+        <p>
+          All the parts are layered and it’s time to render it. Once baked, the
+          flavors are fully combined.
+        </p>
+        <ul>
+          <li>Preheat oven to 375°F</li>
+          <li>Bake for 45 minutes</li>
+          <li>Let rest before serving</li>
+        </ul>
+        <pre><code>npm run build</code></pre>
+      </section>
+
+      <section class="main-section" id="Accessibility">
+        <header>Accessibility</header>
+        <p>
+          Lasagna can be adapted like a website. For gluten-free needs, use
+          alternate pasta. For vegetarians, skip the meat.
+        </p>
+        <p>
+          In web design, accessibility means making sure everyone can use your
+          site, regardless of ability.
+        </p>
+        <ul>
+          <li>Use clear contrast for visual impairments</li>
+          <li>Make sure the keyboard can navigate everything</li>
+          <li>Avoid small click targets</li>
+          <li>Use semantic HTML for screen readers</li>
+        </ul>
+        <pre><code>&lt;nav aria-label="Main Navigation"&gt;</code></pre>
+      </section>
+    </main>
+  </body>
+</html>

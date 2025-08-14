@@ -1,0 +1,53 @@
+body {
+  padding: 50px;
+  font-family: Tahoma;
+  color: ghostWhite;
+  background: linear-gradient(45deg, Gainsboro, white);
+}
+
+input {
+  background-color: Gainsboro;
+  width: 80%;
+  margin-bottom: 2px;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+label {
+  margin: 3px auto;
+  color: ghostWhite;
+}
+
+textarea {
+  background-color: Gainsboro;
+  border-radius: 5px;
+  margin: 5px auto;
+  width: 80%;
+  padding: 4px;
+}
+
+button {
+  padding: 8px;
+  border-radius: 5px;
+  background-color: black;
+  color: ghostWhite;
+  font-size: 16px;
+  border: 0px;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+.form-container {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: dimgray;
+  padding: 4vw;
+  width: 60vw;
+  min-width: 300px;
+  max-width: 600px;
+  border-radius: 10px;
+  text-align: center;
+}
